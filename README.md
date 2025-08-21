@@ -28,3 +28,11 @@
    ```bash
    git clone https://github.com/seu-usuario/DNSParser.git
    cd DNSParser
+   ```
+   
+## Uso:
+
+```bash
+chmod +x DNSParser.sh
+./DNSParser.sh exemplo.com
+```
