@@ -26,7 +26,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/DNSParser.git
+   git clone https://github.com/gabr14l-f4r14s/DNSParser
    cd DNSParser
    ```
    
